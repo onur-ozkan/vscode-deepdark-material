@@ -1,0 +1,31 @@
+{
+	"name": "theme-darkzone",
+	"displayName": "Darkzone Theme",
+	"description": "Material dark theme for Visual Studio Code Editor",
+	"version": "1.0.0",
+	"publisher": "onurrozkaan",
+	"engines": { "vscode": "*" },
+	 "categories": [
+        "Themes"
+],
+	"keywords": [
+        "darkzone",
+        "dark",
+		"black",
+		"darkgrey",
+		"theme"
+],
+"repository": {
+        "type": "git",
+        "url": "https://github.com/onurrozkaan/vscode-theme-darkzone"
+},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darkzone",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darkzone-theme.json"
+			}
+		]
+	}
+}
