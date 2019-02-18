@@ -5,6 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "onurrozkaan",
 	"engines": { "vscode": "*" },
+	"license": "MIT",
 	 "categories": [
         "Themes"
 ],
