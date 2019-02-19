@@ -1,5 +1,6 @@
 {
     "editor.cursorStyle": "underline",
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorBlinking": "phase"
+    "editor.cursorBlinking": "phase",
+    "workbench.editor.highlightModifiedTabs": true
 }
