@@ -1,32 +1,33 @@
 {
-	"name": "theme-darkzone",
-	"displayName": "Darkzone Theme",
-	"description": "Material dark theme for Visual Studio Code Editor",
-	"version": "1.0.0",
+	"name": "material-deepdark",
+	"displayName": "Deepdark Material Theme",
+	"description": "Clean real dark material theme for Visual Studio Code Editor",
+	"version": "0.0.5@beta",
 	"publisher": "onurrozkaan",
-	"engines": { "vscode": "*" },
+	"engines": {
+		"vscode": "*"
+	},
 	"license": "MIT",
-	 "categories": [
-        "Themes"
-],
+	"categories": [
+		"Themes"
+	],
 	"keywords": [
-        "darkzone",
-        "dark",
+		"darkzone",
+		"dark",
 		"black",
 		"darkgrey",
-		"theme"
-],
-"repository": {
-        "type": "git",
-        "url": "https://github.com/onurrozkaan/vscode-theme-darkzone"
-},
+		"theme",
+		"material"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/onurrozkaan/vscode-theme-darkzone"
+	},
 	"contributes": {
-		"themes": [
-			{
-				"label": "Darkzone",
-				"uiTheme": "vs-dark",
-				"path": "./themes/darkzone-theme.json"
-			}
-		]
+		"themes": [ {
+			"label": "Darkzone",
+			"uiTheme": "vs-dark",
+			"path": "./themes/darkzone-theme.json"
+		} ]
 	}
 }
