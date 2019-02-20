@@ -20,6 +20,10 @@
 		"black",
 		"theme"
 	],
+	"galleryBanner": {
+		"color": "#f5f5f5",
+		"theme": "light"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/onurrozkaan/vscode-material-deepdark"
