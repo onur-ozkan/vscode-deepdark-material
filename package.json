@@ -12,22 +12,22 @@
 		"Themes"
 	],
 	"keywords": [
-		"darkzone",
-		"dark",
-		"black",
+		"deepdark",
 		"darkgrey",
-		"theme",
-		"material"
+		"dark",
+		"material",
+		"black",
+		"theme"
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/onurrozkaan/vscode-theme-darkzone"
+		"url": "https://github.com/onurrozkaan/vscode-material-deepdark"
 	},
 	"contributes": {
 		"themes": [ {
-			"label": "Darkzone",
+			"label": "Material Deepdark",
 			"uiTheme": "vs-dark",
-			"path": "./themes/darkzone-theme.json"
+			"path": "./themes/deepdark-material.json"
 		} ]
 	}
 }
