@@ -2,8 +2,8 @@
 	"name": "material-deepdark",
 	"displayName": "Deepdark Material Theme",
 	"description": "Clean real dark material theme for Visual Studio Code Editor",
-	"version": "1.0.0",
-	"publisher": "onurrozkaan",
+	"version": "1.0.1",
+	"publisher": "Nimda",
 	"engines": {
 		"vscode": "*"
 	},
@@ -11,6 +11,7 @@
 	"categories": [
 		"Themes"
 	],
+	"icon": "images/logo.png",
 	"keywords": [
 		"deepdark",
 		"darkgrey",
