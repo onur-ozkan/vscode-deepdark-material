@@ -1,42 +1,45 @@
 {
-	"name": "material-deepdark",
-	"displayName": "Deepdark Material Theme",
-	"description": "Clean real dark material theme for Visual Studio Code Editor",
-	"version": "1.0.1",
-	"publisher": "Nimda",
-	"engines": {
-		"vscode": "*"
-	},
-	"__metadata": {
-        "publisherDisplayName": "Nimda",
-        "publisherId": "Nimda"
-},
-	"license": "MIT",
-	"categories": [
-		"Themes"
-	],
-	"icon": "img/logo.png",
-	"keywords": [
-		"deepdark",
-		"darkgrey",
-		"dark",
-		"material",
-		"black",
-		"theme"
-	],
-	"galleryBanner": {
-		"color": "#f5f5f5",
-		"theme": "light"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/onurrozkaan/vscode-material-deepdark"
-	},
-	"contributes": {
-		"themes": [ {
-			"label": "Deepdark Material",
-			"uiTheme": "vs-dark",
-			"path": "./themes/deepdark-material.json"
-		} ]
-	}
+  "name": "material-deepdark",
+  "displayName": "Deepdark Material Theme",
+  "description": "Clean real dark material theme for Visual Studio Code Editor",
+  "version": "1.0.1",
+  "publisher": "Nimda",
+  "engines": {
+    "vscode": "*"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Nimda",
+    "publisherId": "Nimda"
+  },
+  "homepage": "https://onurrozkaan.github.io/vscode-material-deepdark/",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "icon": "img/logo.png",
+  "keywords": [
+    "deepdark",
+    "darkgrey",
+    "dark",
+    "material",
+    "black",
+    "theme"
+  ],
+  "galleryBanner": {
+    "color": "#f5f5f5",
+    "theme": "light"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onurrozkaan/vscode-material-deepdark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deepdark Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deepdark-material.json"
+      }
+    ]
+  }
 }
