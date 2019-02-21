@@ -1,5 +1,3 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/39852038/53089924-f6f43000-351e-11e9-9961-c1123547592d.png"/>
+<img src="https://user-images.githubusercontent.com/39852038/53186082-60ed0200-3611-11e9-8394-88df5f986ac4.png"/>
 </p>
-
-## Material dark theme for Visual Studio Code Editor
