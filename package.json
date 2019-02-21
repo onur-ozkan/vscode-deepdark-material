@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "*"
 	},
+	"__metadata": {
+        "publisherDisplayName": "Nimda",
+        "publisherId": "Nimda"
+},
 	"license": "MIT",
 	"categories": [
 		"Themes"
