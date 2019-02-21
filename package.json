@@ -1,5 +1,5 @@
 {
-  "name": "material-deepdark",
+  "name": "deepdark-material",
   "displayName": "Deepdark Material Theme",
   "description": "Clean real dark material theme for Visual Studio Code Editor",
   "version": "1.0.1",
@@ -11,7 +11,7 @@
     "publisherDisplayName": "Nimda",
     "publisherId": "Nimda"
   },
-  "homepage": "https://onurrozkaan.github.io/vscode-material-deepdark/",
+  "homepage": "https://onurrozkaan.github.io/vscode-deepdark-material/",
   "license": "MIT",
   "categories": [
     "Themes"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onurrozkaan/vscode-material-deepdark"
+    "url": "https://github.com/onurrozkaan/vscode-deepdark-material"
   },
   "contributes": {
     "themes": [
