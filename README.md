@@ -4,7 +4,7 @@
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nimda.material-deepdark).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nimda.deepdark-material).
 
 ### Installation
 
