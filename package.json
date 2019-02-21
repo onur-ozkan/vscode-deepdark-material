@@ -34,7 +34,7 @@
 	},
 	"contributes": {
 		"themes": [ {
-			"label": "Material Deepdark",
+			"label": "Deepdark Material",
 			"uiTheme": "vs-dark",
 			"path": "./themes/deepdark-material.json"
 		} ]
