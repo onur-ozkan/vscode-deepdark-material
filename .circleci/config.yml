@@ -1,16 +1,16 @@
 version: 2
 jobs:
   build:
-docker:
+    docker:
       - image: circleci/node:latest
     steps:
       - checkout
-- run:
+      - run:
           name: preprocess-clean-node-modules
           command: rm -rf node_modules
-- run:
+      - run:
           name: preprocess-npm-install
           command: npm install
       - run:
           name: lint
-command: npm run lint
+          command: npm run lint
