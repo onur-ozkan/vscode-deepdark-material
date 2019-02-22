@@ -23,7 +23,7 @@ after then go into the one by **Nimda** as author.
 
 ### Activate theme
 
-Launch *Quick Open*:
+Launch *Theme Chooser*:
 
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + K + T`
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + K + T`
