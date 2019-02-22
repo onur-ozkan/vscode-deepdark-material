@@ -27,7 +27,7 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install deepdark theme
+ext install deepdark material
 ```
 
 after then go into the one by **Nimda** as author.
