@@ -4,4 +4,3 @@ assets/*
 node_modules/*
 themes/*
 *.vsix
-*.md
