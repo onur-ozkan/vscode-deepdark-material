@@ -2,6 +2,15 @@
 <img src="https://user-images.githubusercontent.com/39852038/53187435-2fc20100-3614-11e9-81bd-09a3e3eb934e.png"/>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/visual-studio-marketplace/v/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
+<img src="https://img.shields.io/github/repo-size/onurrozkaan/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
+<img src="https://img.shields.io/visual-studio-marketplace/d/Nimda.deepdark-material.svg?color=black&style=flat-square"/> 
+<img src="https://img.shields.io/visual-studio-marketplace/stars/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
+<img src="https://img.shields.io/github/license/onurrozkaan/vscode-deepdark-material.svg?label=LICENSE&style=flat-square"/>
+</p>
+
+
 ## Getting started
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nimda.deepdark-material).
