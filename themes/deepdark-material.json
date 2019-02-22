@@ -4,39 +4,37 @@
   "author": "onurrozkaan",
   "tokenColors": [
 
-    // Global
-
     {
       "name": "Comment",
-      "scope": ["comment"],
+      "scope": [ "comment" ],
       "settings": {
         "foreground": "#6D6D6D"
       }
     },
     {
       "name": "String",
-      "scope": ["string.quoted"],
+      "scope": [ "string.quoted" ],
       "settings": {
         "foreground": "#69f0ae"
       }
     },
     {
       "name": "Number",
-      "scope": ["constant.numeric"],
+      "scope": [ "constant.numeric" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
     },
     {
       "name": "Language Constant (`true`, `false, `null`, etc.)",
-      "scope": ["constant.language"],
+      "scope": [ "constant.language" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
     {
       "name": "Operator (`+`, `-`, `!`, `typeof`, `instanceof`, etc.)",
-      "scope": ["keyword.operator"],
+      "scope": [ "keyword.operator" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
@@ -53,14 +51,14 @@
     },
     {
       "name": "Control Flow (`if`, `else`, `switch`, `return`, etc.)",
-      "scope": ["keyword.control"],
+      "scope": [ "keyword.control" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
     },
     {
       "name": "Storage Type (`function`, `class`, `int`, `bool`, etc.)",
-      "scope": ["storage.type"],
+      "scope": [ "storage.type" ],
       "settings": {
         "foreground": "#69f0ae",
         "fontStyle": "italic"
@@ -68,7 +66,7 @@
     },
     {
       "name": "Storage Modifier (`public`, `private`, `static`, etc.)",
-      "scope": ["storage.modifier"],
+      "scope": [ "storage.modifier" ],
       "settings": {
         "foreground": "#69f0ae",
         "fontStyle": "italic"
@@ -76,21 +74,21 @@
     },
     {
       "name": "Language Variable (`this`, `self`, `super`, etc.)",
-      "scope": ["variable.language"],
+      "scope": [ "variable.language" ],
       "settings": {
         "foreground": "#E9FDAC"
       }
     },
     {
       "name": "Language Method/Function (`setTimeout`, `printf`, etc.)",
-      "scope": ["support.function"],
+      "scope": [ "support.function" ],
       "settings": {
         "foreground": "#C9E9E0"
       }
     },
     {
       "name": "Separator & Terminator Punctuation (`,`,`:`,`;`)",
-      "scope": ["punctuation.separator", "punctuation.terminator"],
+      "scope": [ "punctuation.separator", "punctuation.terminator" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
@@ -108,21 +106,21 @@
     },
     {
       "name": "Regex Container Punctuation",
-      "scope": ["string.regexp punctuation.definition.string"],
+      "scope": [ "string.regexp punctuation.definition.string" ],
       "settings": {
         "foreground": "#A9B9B0"
       }
     },
     {
       "name": "Regex Mode (`igm`)",
-      "scope": ["string.regexp keyword.other"],
+      "scope": [ "string.regexp keyword.other" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
     },
     {
       "name": "Function/Method Name (`function myFunc`)",
-      "scope": ["entity.name.function"],
+      "scope": [ "entity.name.function" ],
       "settings": {
         "foreground": "#8CDAFF"
       }
@@ -140,14 +138,14 @@
     },
     {
       "name": "Function/Method Parameters (`function getFullName(fname = 'John', lname = 'Doe'`)",
-      "scope": ["meta.parameters"],
+      "scope": [ "meta.parameters" ],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Function/Method Parameter Name (`function getFullName(fname, lname`)",
-      "scope": ["variable.parameter"],
+      "scope": [ "variable.parameter" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
@@ -175,7 +173,6 @@
       }
     },
 
-    // HTML & XML
 
     {
       "name": "Doctype Declaration (`<!DOCTYPE html>`)",
@@ -201,21 +198,21 @@
     },
     {
       "name": "Tag Name",
-      "scope": ["entity.name.tag"],
+      "scope": [ "entity.name.tag" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
     },
     {
       "name": "Tag Brackets",
-      "scope": ["punctuation.definition.tag"],
+      "scope": [ "punctuation.definition.tag" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
     },
     {
       "name": "Attribute Name",
-      "scope": ["entity.other.attribute-name"],
+      "scope": [ "entity.other.attribute-name" ],
       "settings": {
         "foreground": "#8CDAFF"
       }
@@ -231,32 +228,32 @@
       }
     },
 
-    // CSS & Sass
+
 
     {
       "name": "Property Name",
-      "scope": ["support.type.property-name"],
+      "scope": [ "support.type.property-name" ],
       "settings": {
         "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Property Value",
-      "scope": ["meta.property-value"],
+      "scope": [ "meta.property-value" ],
       "settings": {
         "foreground": "#69f0ae"
       }
     },
     {
       "name": "Selector Braces (`{}`)",
-      "scope": ["punctuation.section"],
+      "scope": [ "punctuation.section" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
     },
     {
       "name": "Variable (`--my-var`, `$my-var`)",
-      "scope": ["variable.css", "variable.scss"],
+      "scope": [ "variable.css", "variable.scss" ],
       "settings": {
         "foreground": "#FFE082"
       }
@@ -265,15 +262,14 @@
       "name": "Selector Punctuation (`#`, `.`, `:`, `::`, `[]`)",
       "scope": [
         "punctuation.definition.entity",
-        "punctuation.definition.attribute-selector" // Attribute selector brackets in Sass (`[]`)
+        "punctuation.definition.attribute-selector"
       ],
       "settings": {
         "foreground": "#8CDAFF"
       }
     },
     {
-      "name": "Attribute Selector String Value", // temporary hack
-      "scope": ["meta.attribute-selector"],
+      "name": "Attribute Selector String Value",
       "settings": {
         "foreground": "#69f0ae"
       }
@@ -291,7 +287,7 @@
     },
     {
       "name": "At Rule Function Name",
-      "scope": ["meta.at-rule support.function"],
+      "scope": [ "meta.at-rule support.function" ],
       "settings": {
         "foreground": "#8CDAFF"
       }
@@ -343,7 +339,7 @@
     },
     {
       "name": "Function At Rule Parens (`@function fn()`)",
-      "scope": ["meta.at-rule.function punctuation.section"],
+      "scope": [ "meta.at-rule.function punctuation.section" ],
       "settings": {
         "foreground": "#C9E9E0"
       }
@@ -351,7 +347,7 @@
     {
       "name": "Return At Rule (`@return #{$number / 14}rem`)",
       "scope": [
-        "meta.at-rule.return" // in the example above this would target `rem`
+        "meta.at-rule.return"
       ],
       "settings": {
         "foreground": "#D0D0D0"
@@ -380,24 +376,23 @@
     },
     {
       "name": "Sass Interpolation Braces (`#{}`)",
-      "scope": ["punctuation.definition.interpolation"],
+      "scope": [ "punctuation.definition.interpolation" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
     {
       "name": "Sass Map Braces (`()`)",
-      "scope": ["punctuation.definition.map"],
+      "scope": [ "punctuation.definition.map" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
 
-    // JavaScript & JSON
 
     {
       "name": "Block Comment",
-      "scope": ["comment storage.type", "comment punctuation.definition.block"],
+      "scope": [ "comment storage.type", "comment punctuation.definition.block" ],
       "settings": {
         "foreground": "#6D6D6D",
         "fontStyle": "normal"
@@ -407,7 +402,7 @@
       "name": "Curly Braces (`{...}`)",
       "scope": [
         "punctuation.definition.block",
-        "punctuation.definition.dictionary" // JSON
+        "punctuation.definition.dictionary"
       ],
       "settings": {
         "foreground": "#A9B9B0"
@@ -417,7 +412,7 @@
       "name": "Square Braces (`[...]`)",
       "scope": [
         "meta.brace.square",
-        "punctuation.definition.array" // JSON
+        "punctuation.definition.array"
       ],
       "settings": {
         "foreground": "#D77676"
@@ -425,14 +420,14 @@
     },
     {
       "name": "Round Braces/Parens (`(...)`)",
-      "scope": ["meta.brace.round"],
+      "scope": [ "meta.brace.round" ],
       "settings": {
         "foreground": "#C9E9E0"
       }
     },
     {
       "name": "Accessor Operator (`.`)",
-      "scope": ["punctuation.accessor"],
+      "scope": [ "punctuation.accessor" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
@@ -450,14 +445,14 @@
     },
     {
       "name": "Prototype Object (`Func.prototype`)",
-      "scope": ["support.variable.property.js"],
+      "scope": [ "support.variable.property.js" ],
       "settings": {
         "foreground": "#E9FDAC"
       }
     },
     {
       "name": "Constructor Function Name (`Number`, `String`, etc.)",
-      "scope": ["support.class.js", "support.class.builtin.js"],
+      "scope": [ "support.class.js", "support.class.builtin.js" ],
       "settings": {
         "foreground": "#8CDAFF"
       }
@@ -474,45 +469,45 @@
     },
     {
       "name": "Constructor Function Name Prototype Read/Write (`Func.prototype = {...}`)",
-      "scope": ["support.class.js"],
+      "scope": [ "support.class.js" ],
       "settings": {
         "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Template String (``my template string``)",
-      "scope": ["string.template.js", "punctuation.definition.string.template"],
+      "scope": [ "string.template.js", "punctuation.definition.string.template" ],
       "settings": {
         "foreground": "#69f0ae"
       }
     },
     {
       "name": "Template String Expression (``${MODULE}``)",
-      "scope": ["meta.template.expression"],
+      "scope": [ "meta.template.expression" ],
       "settings": {
         "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Template String Expression Punctuation (``${...}``)",
-      "scope": ["punctuation.definition.template-expression"],
+      "scope": [ "punctuation.definition.template-expression" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
     {
       "name": "JSON Property Name Quotes",
-      "scope": ["punctuation.support.type.property-name"],
+      "scope": [ "punctuation.support.type.property-name" ],
       "settings": {
         "foreground": "#B2B2B1"
       }
     },
 
-    // PHP
+
 
     {
       "name": "Embedded PHP Tags (`<?php ... ?>` in .phtml file)",
-      "scope": ["punctuation.section.embedded"],
+      "scope": [ "punctuation.section.embedded" ],
       "settings": {
         "foreground": "#A9B9B0"
       }
@@ -529,14 +524,14 @@
     },
     {
       "name": "Embedded Variables (`<img src='<?php echo $src; ?>'/>`)",
-      "scope": ["variable.other.php"],
+      "scope": [ "variable.other.php" ],
       "settings": {
         "foreground": "#F8F8F2"
       }
     },
     {
       "name": "Function/Method Parameter (`function getFullName($fname, $lname`)",
-      "scope": ["meta.function.parameter"],
+      "scope": [ "meta.function.parameter" ],
       "settings": {
         "foreground": "#D0D0D0",
         "fontStyle": "italic"
@@ -544,20 +539,20 @@
     },
     {
       "name": "Array Brackets",
-      "scope": ["punctuation.section.array"],
+      "scope": [ "punctuation.section.array" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
     {
       "name": "New Operator (`$obj = new My_Class`)",
-      "scope": ["keyword.other.new"],
+      "scope": [ "keyword.other.new" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
     },
 
-    // SQL
+
 
     {
       "name": "Operator (`SELECT`, `FROM`, `GROUP BY`, etc.)",
@@ -572,80 +567,80 @@
     },
     {
       "name": "Language Constate (`NULL`)",
-      "scope": ["keyword.other.DDL.create.II.sql"],
+      "scope": [ "keyword.other.DDL.create.II.sql" ],
       "settings": {
         "foreground": "#D77676"
       }
     },
 
-    // Markdown
+
 
     {
       "name": "Headings (`# My Heading`)",
-      "scope": ["entity.name.section", "punctuation.definition.heading"],
+      "scope": [ "entity.name.section", "punctuation.definition.heading" ],
       "settings": {
         "foreground": "#FFE082"
       }
     },
     {
       "name": "Beginning Markup (`1.`, `-`, `>`, etc.)",
-      "scope": ["markup beginning.punctuation"],
+      "scope": [ "markup beginning.punctuation" ],
       "settings": {
         "foreground": "#FF5E5E"
       }
     },
     {
       "name": "Inline Markup (`*`, `**`, `_`, etc.)",
-      "scope": ["markup punctuation"],
+      "scope": [ "markup punctuation" ],
       "settings": {
         "foreground": "#B2B2B1"
       }
     },
     {
       "name": "Link",
-      "scope": ["string.other.link"],
+      "scope": [ "string.other.link" ],
       "settings": {
         "foreground": "#C9E9E0"
       }
     },
     {
       "name": "Link href",
-      "scope": ["markup.underline.link"],
+      "scope": [ "markup.underline.link" ],
       "settings": {
         "foreground": "#6D6D6D"
       }
     },
     {
       "name": "Link & Image Title",
-      "scope": ["string.other.link.description.title"],
+      "scope": [ "string.other.link.description.title" ],
       "settings": {
         "foreground": "#D0D0D0"
       }
     },
     {
       "name": "Link Container Punctuation (`[...](...)`)",
-      "scope": ["meta.link punctuation"],
+      "scope": [ "meta.link punctuation" ],
       "settings": {
         "foreground": "#B2B2B1"
       }
     },
     {
       "name": "Image Container Punctuation (`![...](...)`)",
-      "scope": ["meta.image punctuation"],
+      "scope": [ "meta.image punctuation" ],
       "settings": {
         "foreground": "#B2B2B1"
       }
     },
     {
       "name": "Code Block (```)",
-      "scope": ["markup.fenced_code punctuation"],
+      "scope": [ "markup.fenced_code punctuation" ],
       "settings": {
         "foreground": "#B8FCB1"
       }
     }
   ],
   "colors": {
-    // Base, Button, Lists and Trees, Dropdown, Input Control
+
 
     "focusBorder": "#B2B2B1",
     "errorForeground": "#F3002B",
@@ -670,7 +665,7 @@
     "list.errorForeground": "#F3002B",
     "list.warningForeground": "#F3C900",
 
-    // Activity Bar, Side Bar, Editor Groups & Tabs, Editor
+
 
     "activityBar.foreground": "#D0D0D0",
     "activityBar.background": "#080808",
@@ -742,7 +737,7 @@
     "editorGutter.addedBackground": "#00F3C9",
     "editorGutter.deletedBackground": "#F3002B",
 
-    // Diff Editor, Editor Widget, Peek View, Merge Conflicts, Panel
+
 
     "diffEditor.insertedTextBackground": "#00A78A40",
     "diffEditor.removedTextBackground": "#A7001D40",
@@ -789,7 +784,7 @@
     "panelTitle.activeForeground": "#FFFFFF",
     "panelTitle.inactiveForeground": "#8C8C8A",
 
-    // Status Bar, Extensions, Title Bar, Notification Dialog
+
 
     "statusBar.foreground": "#878787",
     "statusBar.background": "#080808",
@@ -828,7 +823,7 @@
     "extensionButton.prominentBackground": "#00A4F3",
     "extensionButton.prominentHoverBackground": "#0093DA",
 
-    // Quick Picker, Debug, Welcome Page, Git Colors, Breadcrumbs, Menu
+
 
     "pickerGroup.border": "#50504F",
     "pickerGroup.foreground": "#8C8C8A",
