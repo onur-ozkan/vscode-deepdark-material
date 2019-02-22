@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/travis/com/onurrozkaan/vscode-deepdark-material.svg?color=black&label=.travis-ci&style=flat-square"/>
+<img src="https://img.shields.io/circleci/project/github/onurrozkaan/vscode-deepdark-material/master.svg?color=black&label=.circleci&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/v/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
 <img src="https://img.shields.io/github/repo-size/onurrozkaan/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/d/Nimda.deepdark-material.svg?color=black&style=flat-square"/> 
