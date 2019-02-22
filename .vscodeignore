@@ -1,2 +1,17 @@
 img/*
 !img/logo.png
+.circleci/**
+.github/**
+.vscode/**
+node_modules
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitignore
+.npmrc
+.prettierignore
+.remarkrc.js
+.travis.yml
+package-lock.json
+prettier.config.js
+*.vsix

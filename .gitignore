@@ -1,2 +1,8 @@
 img/*
 *.vsix
+.vscode/
+node_modules/
+logs/
+*.log
+npm-debug.log*
+.npm/
