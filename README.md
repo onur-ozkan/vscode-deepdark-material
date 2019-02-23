@@ -20,9 +20,9 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 Launch *Quick Open*:
 
-* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
-* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+* <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + P`
+* <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + P`
+* <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + P`
 
 Paste the following command and press `Enter`:
 
@@ -54,6 +54,10 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
     "workbench.editor.highlightModifiedTabs": true
 }
 ```
+
+### Theme Preview
+
+<p align=center"> <img src="https://user-images.githubusercontent.com/39852038/53289898-94649380-37ad-11e9-8f9b-8ba238262240.gif"> <p>
 
 The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/onurrozkaan/vscode-deepdark-material/issues).
 
