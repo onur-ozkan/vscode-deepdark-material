@@ -2,7 +2,7 @@
   "name": "deepdark-material",
   "displayName": "Deepdark Material Theme",
   "description": "Clean real dark material theme for Visual Studio Code Editor",
-  "version": "1.9.0",
+  "version": "2.0.0",
   "publisher": "Nimda",
   "engines": {
     "vscode": "*"
@@ -57,7 +57,7 @@
     "eslint-plugin-json": "1.2.0",
     "eslint-plugin-prettier": "2.6.1",
     "prettier": "1.13.7",
-    "remark-cli": "5.0.0",
+    "remark-cli": "6.0.1",
     "remark-preset-lint-arcticicestudio": "0.1.0"
   }
 }
