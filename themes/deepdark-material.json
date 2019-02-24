@@ -552,8 +552,6 @@
       }
     },
 
-
-
     {
       "name": "Operator (`SELECT`, `FROM`, `GROUP BY`, etc.)",
       "scope": [
@@ -641,7 +639,6 @@
   ],
   "colors": {
 
-
     "focusBorder": "#B2B2B1",
     "errorForeground": "#F3002B",
 
@@ -664,8 +661,6 @@
     "list.highlightForeground": "#F8F8F2",
     "list.errorForeground": "#F3002B",
     "list.warningForeground": "#F3C900",
-
-
 
     "activityBar.foreground": "#D0D0D0",
     "activityBar.background": "#080808",
@@ -736,8 +731,6 @@
     "editorGutter.modifiedBackground": "#F3C900",
     "editorGutter.addedBackground": "#00F3C9",
     "editorGutter.deletedBackground": "#F3002B",
-
-
 
     "diffEditor.insertedTextBackground": "#00A78A40",
     "diffEditor.removedTextBackground": "#A7001D40",
