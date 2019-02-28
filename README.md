@@ -61,4 +61,4 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 
 The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/onurrozkaan/vscode-deepdark-material/issues).
 
-<p align="center"> The MIT License Copyright &copy; 2019 Onur ÖZKAN</p>
+<h3 align="center"> The MIT License Copyright &copy; 2019 Onur ÖZKAN </h3>
