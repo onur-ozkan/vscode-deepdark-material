@@ -12,5 +12,5 @@ jobs:
           name: preprocess-npm-install
           command: npm install
       - run:
-          name: lint
-          command: npm run lint
+          name: test
+          command: npm run test

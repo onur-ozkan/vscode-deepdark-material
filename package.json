@@ -2,7 +2,7 @@
   "name": "deepdark-material",
   "displayName": "Deepdark Material Theme",
   "description": "Clean real dark material theme for Visual Studio Code Editor",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "Nimda",
   "engines": {
     "vscode": "*"
@@ -43,18 +43,18 @@
     ]
   },
   "scripts": {
-    "format:fix": "eslint --fix '*.{js,json}' 'themes/**/*.{js,json}'",
-    "lint": "npm run lint:js && npm run lint:json && npm run lint:md",
-    "lint:js": "eslint '*.js' 'themes/**/*.js'",
-    "lint:json": "eslint '*.json' 'themes/**/*.json'",
-    "lint:md": "remark '*.md'"
+    "format:fix": "eslint --fix '*.{js,json}' 'themes/*.{js,json}'",
+    "test": "npm run test:js && npm run test:json && npm run test:md && npm run format:fix",
+    "test:js": "eslint '*.js' 'themes/*.js'",
+    "test:json": "eslint '*.json' 'themes/*.json'",
+    "test:md": "remark '*.md'"
   },
   "devDependencies": {
     "babel-eslint": "8.2.5",
     "eslint": "4.19.1",
     "eslint-config-arcticicestudio-base": "0.3.0",
     "eslint-plugin-import": "2.13.0",
-    "eslint-plugin-json": "1.2.0",
+    "eslint-plugin-json": "1.4.0",
     "eslint-plugin-prettier": "2.6.1",
     "prettier": "1.13.7",
     "remark-cli": "6.0.1",
