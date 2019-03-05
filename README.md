@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/github/repo-size/onurrozkaan/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/d/Nimda.deepdark-material.svg?color=black&style=flat-square"/> 
 <img src="https://img.shields.io/visual-studio-marketplace/stars/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
-<img src="https://img.shields.io/github/license/onurrozkaan/vscode-deepdark-material.svg?label=LICENSE&style=flat-square"/>
+<img src="https://img.shields.io/github/license/onurrozkaan/vscode-deepdark-material.svg?color=000000&style=flat-square"/>
 </p>
 
 ## Getting started
