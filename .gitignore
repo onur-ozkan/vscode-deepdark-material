@@ -1,4 +1,3 @@
-img/*
 *.vsix
 .vscode/
 package-lock.json

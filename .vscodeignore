@@ -1,5 +1,5 @@
-img/*
-!img/logo.png
+assets/*
+!assets/logo.png
 .circleci/**
 .github/**
 .vscode/**
