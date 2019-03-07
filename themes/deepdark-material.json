@@ -76,7 +76,7 @@
       "name": "Language Variable (`this`, `self`, `super`, etc.)",
       "scope": [ "variable.language" ],
       "settings": {
-        "foreground": "#e5ee6f"
+        "foreground": "#00e676"
       }
     },
     {
