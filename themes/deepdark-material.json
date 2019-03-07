@@ -60,7 +60,7 @@
       "name": "Storage Type (`function`, `class`, `int`, `bool`, etc.)",
       "scope": [ "storage.type" ],
       "settings": {
-        "foreground": "#69f0ae",
+        "foreground": "#e6e34a",
         "fontStyle": "italic"
       }
     },
@@ -76,14 +76,14 @@
       "name": "Language Variable (`this`, `self`, `super`, etc.)",
       "scope": [ "variable.language" ],
       "settings": {
-        "foreground": "#E9FDAC"
+        "foreground": "#e5ee6f"
       }
     },
     {
       "name": "Language Method/Function (`setTimeout`, `printf`, etc.)",
       "scope": [ "support.function" ],
       "settings": {
-        "foreground": "#C9E9E0"
+        "foreground": "#ffc107"
       }
     },
     {
@@ -122,7 +122,7 @@
       "name": "Function/Method Name (`function myFunc`)",
       "scope": [ "entity.name.function" ],
       "settings": {
-        "foreground": "#8CDAFF"
+        "foreground": "#ef5350"
       }
     },
     {
@@ -133,7 +133,7 @@
       ],
       "settings": {
         "foreground": "#C9E9E0",
-        "fontStyle": "normal"
+        "fontStyle": "italic"
       }
     },
     {
@@ -147,7 +147,7 @@
       "name": "Function/Method Parameter Name (`function getFullName(fname, lname`)",
       "scope": [ "variable.parameter" ],
       "settings": {
-        "foreground": "#D0D0D0"
+        "foreground": "#536dfe"
       }
     },
     {
@@ -440,7 +440,7 @@
         "support.type.object"
       ],
       "settings": {
-        "foreground": "#FFE082"
+        "foreground": "#ec407a"
       }
     },
     {
@@ -639,7 +639,6 @@
     }
   ],
   "colors": {
-
     "focusBorder": "#B2B2B1",
     "errorForeground": "#F3002B",
 
