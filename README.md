@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/travis/com/onurrozkaan/vscode-deepdark-material.svg?color=black&label=.travis-ci&style=flat-square"/>
-<img src="https://img.shields.io/circleci/project/github/onurrozkaan/vscode-deepdark-material/master.svg?color=black&label=.circleci&style=flat-square"/>
+<img src="https://img.shields.io/travis/com/ozkanonur/vscode-deepdark-material.svg?color=black&label=.travis-ci&style=flat-square"/>
+<img src="https://img.shields.io/circleci/project/github/ozkanonur/vscode-deepdark-material/master.svg?color=black&label=.circleci&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/v/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
-<img src="https://img.shields.io/github/repo-size/onurrozkaan/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
-<img src="https://img.shields.io/visual-studio-marketplace/d/Nimda.deepdark-material.svg?color=black&style=flat-square"/> 
+<img src="https://img.shields.io/github/repo-size/ozkanonur/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
+<img src="https://img.shields.io/visual-studio-marketplace/d/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/stars/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
-<img src="https://img.shields.io/github/license/onurrozkaan/vscode-deepdark-material.svg?color=000000&style=flat-square"/>
+<img src="https://img.shields.io/github/license/ozkanonur/vscode-deepdark-material.svg?color=000000&style=flat-square"/>
 </p>
 
 ## Getting started
@@ -69,7 +69,7 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 <img src="https://user-images.githubusercontent.com/39852038/54023748-c3fc9e00-41a6-11e9-9ce4-77815aa33ccb.png">
 </p>
 
-<h3 align="center"> You can help by reporting issues  <a href="https://github.com/onurrozkaan/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
+<h3 align="center"> You can help by reporting issues  <a href="https://github.com/ozkanonur/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
 
 <h4 align="center"> The MIT License Copyright &copy; 2019 Onur ÖZKAN </h4>
 
