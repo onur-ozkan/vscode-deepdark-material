@@ -11,7 +11,7 @@
     "publisherDisplayName": "Nimda",
     "publisherId": "Nimda"
   },
-  "homepage": "https://github.com/onurrozkaan/vscode-deepdark-material/blob/master/README.md",
+  "homepage": "https://github.com/ozkanonur/vscode-deepdark-material/blob/master/README.md",
   "license": "MIT",
   "categories": [
     "Themes"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onurrozkaan/vscode-deepdark-material"
+    "url": "https://github.com/ozkanonur/vscode-deepdark-material"
   },
   "contributes": {
     "themes": [
