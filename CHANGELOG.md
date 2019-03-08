@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v2.4.3 | 8 March 2019
+## v2.5.0 | 8 March 2019
 
 - Changelog file created
 - Pointer color changed to '#00e676'
