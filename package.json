@@ -47,7 +47,7 @@
     "test": "npm run test:js && npm run test:json && npm run test:md && npm run format:fix",
     "test:js": "eslint '*.js' 'themes/*.js'",
     "test:json": "eslint '*.json' 'themes/*.json'",
-    "test:md": "remark '*.md'"
+    "test:md": "remark 'README.md'"
   },
   "devDependencies": {
     "babel-eslint": "8.2.5",
