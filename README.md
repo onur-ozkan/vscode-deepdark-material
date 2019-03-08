@@ -58,18 +58,18 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 ### Theme Preview
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54018455-c0164f00-4199-11e9-9e73-453d23fea437.png">
+<img src="https://user-images.githubusercontent.com/39852038/54018938-f902f380-419a-11e9-86d1-20c436c638cc.png">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54018456-c0164f00-4199-11e9-832a-3572ac7dd61a.png">
+<img src="https://user-images.githubusercontent.com/39852038/54018939-f902f380-419a-11e9-9d3e-692c180a0046.png">
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54018454-c0164f00-4199-11e9-80cf-fea3b29c3485.png">
+<img src="https://user-images.githubusercontent.com/39852038/54018940-f902f380-419a-11e9-89c2-f4e98a805230.png">
 </p>
 
-<h3 align="left"> You can help by reporting issues  <a href="https://github.com/onurrozkaan/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
+<h3 align="center"> You can help by reporting issues  <a href="https://github.com/onurrozkaan/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
 
 <h4 align="center"> The MIT License Copyright &copy; 2019 Onur ÖZKAN </h4>
 
