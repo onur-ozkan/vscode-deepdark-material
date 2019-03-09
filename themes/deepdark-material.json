@@ -8,7 +8,7 @@
       "name": "Comment",
       "scope": [ "comment" ],
       "settings": {
-        "foreground": "#6D6D6D"
+        "foreground": "#eee"
       }
     },
     {
@@ -440,7 +440,7 @@
         "support.type.object"
       ],
       "settings": {
-        "foreground": "#ec407a"
+        "foreground": "#808080"
       }
     },
     {
@@ -674,8 +674,10 @@
 
     "editorGroup.dropBackground": "#00000040",
     "editorGroupHeader.tabsBackground": "#080808",
+    "tab.activeBorderTop": "#fffb00",
+    "tab.unfocusedActiveBorderTop": "#080808",
     "tab.border": "#080808",
-    "tab.activeBorder": "#fffb00",
+    "tab.activeBorder": "#080808",
     "tab.activeBackground": "#000000",
     "tab.inactiveBackground": "#212121",
     "tab.unfocusedActiveBorder": "#080808",
@@ -777,6 +779,7 @@
     "panelTitle.activeBorder": "#00A4F3",
     "panelTitle.activeForeground": "#FFFFFF",
     "panelTitle.inactiveForeground": "#8C8C8A",
+
 
 
 
