@@ -57,15 +57,7 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 ### Theme Preview
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54023746-c3fc9e00-41a6-11e9-8a78-486271d04f07.png">
-</p>
-
-<p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54023747-c3fc9e00-41a6-11e9-83ff-a1de868b77e4.png">
-</p>
-
-<p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54023748-c3fc9e00-41a6-11e9-9ce4-77815aa33ccb.png">
+<img src="https://user-images.githubusercontent.com/39852038/54069832-ce34a000-426b-11e9-87cb-a654fc5f0c1a.png">
 </p>
 
 <h3 align="center"> You can help by reporting issues  <a href="https://github.com/ozkanonur/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
