@@ -49,10 +49,8 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 
 ```js
 {
-    "editor.cursorStyle": "underline",
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorBlinking": "phase",
-    "workbench.editor.highlightModifiedTabs": true
+    "editor.cursorBlinking": "smooth"
 }
 ```
 
