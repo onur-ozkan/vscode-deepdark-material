@@ -4,6 +4,7 @@
 
 - Active tab highlight moved to top from bottom
 - Comment color updated to '#808080'
+- Extension logo & documents brand image updated
 
 ## v2.5.0 | 8 March 2019
 
