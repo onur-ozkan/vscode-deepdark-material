@@ -13,11 +13,9 @@
 <img src="https://img.shields.io/github/license/ozkanonur/vscode-deepdark-material.svg?color=000000&style=flat-square"/>
 </p>
 
-## Getting started
+#### You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nimda.deepdark-material).
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nimda.deepdark-material).
-
-### Installation
+## Installation
 
 Launch *Quick Open*:
 
@@ -33,7 +31,7 @@ ext install deepdark material
 
 after then go into the one by **Nimda** as author.
 
-### Activate theme
+## Theme Enable
 
 Launch *Theme Chooser*:
 
@@ -41,9 +39,9 @@ Launch *Theme Chooser*:
 * <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + K + T`
 * <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + K + T`
 
-With that execute that shortcut, theme choosing window will pop up. Choice the 'Deepdark Material' one to active theme.
+With that execute that shortcut, theme choosing window will pop up. Choice the 'Default' or 'Full Black' Deepdark Theme to active it.
 
-### Configuration
+## Configuration
 
 **Some of settings comes with Deepdark Material as default. You can edit these settings with following commands inside of .vscode/settings.json directory**
 
