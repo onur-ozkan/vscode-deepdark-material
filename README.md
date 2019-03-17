@@ -52,6 +52,12 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 }
 ```
 
+## 'Default' and 'Full Black' Theme Differences
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/39852038/54490168-9c06ec00-48c4-11e9-9627-314c7b428cde.png">
+</p>
+
 ## Theme Preview
 
 <p align="left">
