@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v2.5.2 | 17 March 2019
+
+- Created 2 Different Options 'Default' and 'Full Black'
+- Menu & Sidebar colors changed
+
 ## v2.5.1 | 9 March 2019
 
 - Active tab highlight moved to top from bottom
