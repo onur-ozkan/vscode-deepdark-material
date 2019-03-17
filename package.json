@@ -36,9 +36,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Deepdark Material",
+        "label": "Deepdark Material Theme | Default Version",
         "uiTheme": "vs-dark",
-        "path": "./themes/deepdark-material.json"
+        "path": "./themes/default-deepdark-material.json"
+      },
+      {
+        "label": "Deepdark Material Theme | Full Black Version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fullblack-deepdark-material.json"
       }
     ]
   },
