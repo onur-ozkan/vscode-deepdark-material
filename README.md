@@ -57,7 +57,10 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 ### Theme Preview
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/39852038/54069832-ce34a000-426b-11e9-87cb-a654fc5f0c1a.png">
+<h4> Default Deepdark </h4>
+<img src="https://user-images.githubusercontent.com/39852038/54489416-0caa0a80-48bd-11e9-8e79-cfaf61ef2994.png">
+<h4> Full Black Deepdark </h4>
+<img src="https://user-images.githubusercontent.com/39852038/54489433-2d726000-48bd-11e9-8918-580a13d5f0d3.png">
 </p>
 
 <h3 align="center"> You can help by reporting issues  <a href="https://github.com/ozkanonur/vscode-deepdark-material/issues">here</a> or giving feedback to onurozkan.dev@outlook.com </h3>
