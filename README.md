@@ -54,7 +54,7 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 }
 ```
 
-### Theme Preview
+## Theme Preview
 
 <p align="left">
 <h4> Default Deepdark </h4>
