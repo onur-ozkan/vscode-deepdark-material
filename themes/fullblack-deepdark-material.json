@@ -651,11 +651,11 @@
     "input.border": "#50504F",
     "inputOption.activeBorder": "#B2B2B1",
 
-    "list.activeSelectionForeground": "#F8F8F2",
-    "list.activeSelectionBackground": "#080808",
-    "list.inactiveSelectionForeground": "#D0D0D0",
-    "list.inactiveSelectionBackground": "#080808",
-    "list.hoverBackground": "#080808",
+    "list.activeSelectionForeground": "#F3C900",
+    "list.activeSelectionBackground": "#212121",
+    "list.inactiveSelectionForeground": "#F3C900",
+    "list.inactiveSelectionBackground": "#212121",
+    "list.hoverBackground": "#212121",
     "list.focusBackground": "#080808",
     "list.dropBackground": "#333332",
     "list.highlightForeground": "#F8F8F2",
@@ -844,11 +844,11 @@
     "breadcrumb.activeSelectionForeground": "#D0D0D0",
     "breadcrumbPicker.background": "#292928",
 
-    "menu.background": "#292928",
+    "menu.background": "#0c0c0c",
     "menu.foreground": "#8C8C8A",
-    "menu.selectionBackground": "#080808",
-    "menu.selectionForeground": "#D0D0D0",
-    "menubar.selectionBackground": "#292928",
-    "menubar.selectionForeground": "#D0D0D0"
+    "menu.selectionBackground": "#212121",
+    "menu.selectionForeground": "#F3C900",
+    "menubar.selectionBackground": "#212121",
+    "menubar.selectionForeground": "#F3C900"
   }
 }
