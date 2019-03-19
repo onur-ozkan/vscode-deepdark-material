@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/circleci/project/github/ozkanonur/vscode-deepdark-material/master.svg?color=black&label=.circleci&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/v/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
 <img src="https://img.shields.io/github/repo-size/ozkanonur/vscode-deepdark-material.svg?colorB=black&label=repo%20size&style=flat-square"/>
-<img src="https://vsmarketplacebadge.apphb.com/downloads/Nimda.deepdark-material.svg?colorB=black&tyle=flat-square"/>
+<img src="https://vsmarketplacebadge.apphb.com/downloads/Nimda.deepdark-material.svg?colorB=black&style=flat-square"/>
 <img src="https://img.shields.io/visual-studio-marketplace/stars/Nimda.deepdark-material.svg?color=black&style=flat-square"/>
 <img src="https://img.shields.io/github/license/ozkanonur/vscode-deepdark-material.svg?color=000000&style=flat-square"/>
 </p>
