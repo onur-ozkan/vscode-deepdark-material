@@ -11,6 +11,21 @@
         "foreground": "#808080"
       }
     },
+
+    {
+      "name": "[JAVASCRIPT] - Numbers",
+      "scope": "source.js constant",
+      "settings": {
+        "foreground": "#d6498b"
+      }
+    },
+    {
+      "name": "Meta",
+      "scope": "meta",
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
     {
       "name": "String",
       "scope": [ "string.quoted" ],
@@ -32,6 +47,7 @@
         "foreground": "#D77676"
       }
     },
+
     {
       "name": "Operator (`+`, `-`, `!`, `typeof`, `instanceof`, etc.)",
       "scope": [ "keyword.operator" ],
@@ -122,7 +138,7 @@
       "name": "Function/Method Name (`function myFunc`)",
       "scope": [ "entity.name.function" ],
       "settings": {
-        "foreground": "#ef5350"
+        "foreground": "#7674f0"
       }
     },
     {
@@ -170,6 +186,13 @@
       ],
       "settings": {
         "foreground": "#B8FCB1"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [ "keyword.control.conditional", "keyword.control.import" ],
+      "settings": {
+        "foreground": "#FFD14A"
       }
     },
 
@@ -662,7 +685,7 @@
     "list.errorForeground": "#F3002B",
     "list.warningForeground": "#F3C900",
 
-    "activityBar.foreground": "#D0D0D0",
+    "activityBar.foreground": "#f5f5f5",
     "activityBar.background": "#080808",
     "activityBarBadge.foreground": "#080808",
     "activityBarBadge.background": "#F3C900",
