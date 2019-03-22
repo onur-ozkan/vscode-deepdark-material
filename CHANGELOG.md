@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v2.5.3 | 22 March 2019
+
+- Classes, variables colors changed.
+- Notification colors fixed.
+- Color optimizations for React syntax.
+
 ## v2.5.2 | 17 March 2019
 
 - Created 2 Different Options 'Default' and 'Full Black'
