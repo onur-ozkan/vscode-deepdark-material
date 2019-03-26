@@ -48,7 +48,8 @@ With that execute that shortcut, theme choosing window will pop up. Choice the '
 ```js
 {
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorBlinking": "smooth"
+    "editor.cursorBlinking": "smooth",
+    "breadcrumbs.enabled": true
 }
 ```
 
