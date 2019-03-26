@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v2.5.5 | 26 March 2019
+
+- Color optimizations on whole theme.
+- Color support for Ruby, Javascript Frameworks, PHP, SQL, Markdown.
+
 ## v2.5.3 | 22 March 2019
 
 - Classes, variables colors changed.
