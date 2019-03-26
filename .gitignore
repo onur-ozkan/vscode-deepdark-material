@@ -5,3 +5,4 @@ logs/
 *.log
 npm-debug.log*
 .npm/
+themes
