@@ -528,7 +528,7 @@
       "name": "Function/Method Parameter Name (`function getFullName(fname, lname`)",
       "scope": [ "variable.parameter" ],
       "settings": {
-        "foreground": "#536dfe"
+        "foreground": "#FF5E5E"
       }
     },
     {
@@ -539,7 +539,7 @@
         "meta.method-call entity.name.function"
       ],
       "settings": {
-        "foreground": "#C9E9E0"
+        "foreground": "#d68d5b"
       }
     },
     {
