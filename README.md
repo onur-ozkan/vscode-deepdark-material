@@ -1,6 +1,10 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/39852038/54070610-173c2280-4273-11e9-9b26-6da60bc1a283.png"/>
-</p>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/39852038/55273449-745c4e80-52dc-11e9-8313-7248a8594d88.png" width="200" />
+
+# Deepdark Material
+A clean dark material theme for Visual Studio Code Editor
+<div align="center">
 
 <p align="center">
 <img src="https://img.shields.io/badge/github-ozkanonur-212121.svg?style=flat-square&colorB=b71c1c"/>
