@@ -4,7 +4,7 @@
 
 # Deepdark Material
 A clean dark material theme for Visual Studio Code Editor
-<div align="center">
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/github-ozkanonur-212121.svg?style=flat-square&colorB=b71c1c"/>
