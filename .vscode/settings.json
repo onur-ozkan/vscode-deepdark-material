@@ -1,5 +1,4 @@
 {
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.cursorBlinking": "smooth",
-    "breadcrumbs.enabled": true
+    "editor.cursorBlinking": "smooth"
 }
