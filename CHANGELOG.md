@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v2.7.0 | 1 May 2019
+
+- Picker group colors changed.
+- Bad outline appearance on focused explorer fixed.
+- List selected item color fixed. (It was same color as background.)
+
 ## v2.6.5 | 26 March 2019
 
 - Color optimizations on whole theme.
