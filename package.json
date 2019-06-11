@@ -1,8 +1,8 @@
 {
   "name": "deepdark-material",
   "displayName": "Deepdark Material Theme",
-  "description": "Clean real dark material theme for Visual Studio Code Editor",
-  "version": "2.7.0",
+  "description": "A clean dark material theme and icon package for Visual Studio Code Editor",
+  "version": "3.0.0",
   "publisher": "Nimda",
   "engines": {
     "vscode": "*"
@@ -18,12 +18,14 @@
   ],
   "icon": "assets/logo.png",
   "keywords": [
-    "deepdark",
-    "darkgrey",
     "dark",
-    "material",
     "black",
-    "theme"
+    "grey",
+    "gray",
+    "material",
+    "darkgrey",
+    "theme",
+    "icons"
   ],
   "galleryBanner": {
     "color": "#080808",
@@ -44,6 +46,13 @@
         "label": "Deepdark Material Theme | Full Black Version",
         "uiTheme": "vs-dark",
         "path": "./themes/fullblack-deepdark-material.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "deepdark-material-icons",
+        "label": "Deepdark Material Icon Package",
+        "path": "./icons/icons.json"
       }
     ]
   },

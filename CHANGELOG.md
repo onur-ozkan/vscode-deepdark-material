@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v3.0.0 | 11 Jun 2019
+
+- Icon package integrated as 'Deepdark Material Icon Package' with svg library.
+
 ## v2.7.0 | 1 May 2019
 
 - Picker group colors changed.
