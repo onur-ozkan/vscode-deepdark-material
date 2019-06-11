@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><defs><mask id="a"><path fill="#fff" d="M0 0h320v320H0z"/><ellipse cx="180" cy="150" rx="120" ry="70"/></mask></defs><ellipse cx="160" cy="140" rx="160" ry="100" fill="#7f7f7f" mask="url(#a)"/><text x="130" y="280" font-family="Arial" font-size="240" font-weight="bold" fill="#1f5fbf">R</text></svg>
