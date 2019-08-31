@@ -5,5 +5,3 @@ logs/
 *.log
 npm-debug.log*
 .npm/
-themes
-icons/icons.json
