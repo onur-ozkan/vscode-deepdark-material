@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## v3.1.0 | 1 Sep 2019
+
+- New icons added & updated
+    - Php
+    - Laravel blade
+    - Shell
+    - Svg
+    - Env
+    - Git
+- Update the hightlight & background color of the search text
+
 ## v3.0.0 | 11 Jun 2019
 
 - Icon package integrated as 'Deepdark Material Icon Package' with svg library.
