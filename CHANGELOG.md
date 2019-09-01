@@ -7,8 +7,10 @@
     - Laravel blade
     - Shell
     - Svg
+    - Png
     - Env
     - Git
+    - Ejs
 - Update the hightlight & background color of the search text
 
 ## v3.0.0 | 11 Jun 2019
