@@ -427,7 +427,7 @@
             "iconPath": "./lib/nodejs.svg"
         },
         "nodejs-lock": {
-            "iconPath": "./lib/nodejs-lock"
+            "iconPath": "./lib/nodejs-lock.svg"
         },
         "npm": {
             "iconPath": "./lib/npm.svg"
