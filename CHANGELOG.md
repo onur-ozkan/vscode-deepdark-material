@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## v3.1.0 | 1 Sep 2019
+## v3.2.0 | 1 Sep 2019
 
 - New icons added & updated
     - Php
