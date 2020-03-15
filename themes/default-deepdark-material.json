@@ -200,7 +200,7 @@
             "scope": "variable.other.property",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#c02546"
+                "foreground": "#8d6e63"
             }
         },
         {
@@ -221,12 +221,21 @@
         },
         {
             "name": "Meta Brace",
-            "scope": "-(source string source punctuation.section.embedded), meta.brace.erb.html",
+            "scope": "meta.brace.erb.html",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#008200"
+                "foreground": "#D08442"
             }
         },
+        {
+			"name": "Object keys, TS grammar specific",
+			"scope": [
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#eeeeee"
+			}
+		},
         {
             "name": "HTML ID",
             "scope": "meta.toc-list.id",
@@ -498,7 +507,7 @@
             "name": "Function/Method Name (`function myFunc`)",
             "scope": ["entity.name.function"],
             "settings": {
-                "foreground": "#ff9a28"
+                "foreground": "#80cbc4"
             }
         },
         {
