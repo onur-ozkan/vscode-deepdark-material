@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v3.2.1 | 15 Mar 2020
+
+- The color glitching problem fixed which comes by latest VSCode update.
+
 ## v3.2.0 | 1 Sep 2019
 
 - New icons added & updated
