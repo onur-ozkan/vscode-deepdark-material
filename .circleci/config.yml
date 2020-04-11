@@ -10,13 +10,7 @@ jobs:
           command: rm -rf node_modules
       - run:
           name: preprocess-npm
-          command: npm install
+          command: npm ci
       - run:
           name: test (npm)
           command: npm run test
-      - run:
-          name: preprocess-yarn
-          command: yarn
-      - run:
-          name: test (yarn)
-          command: yarn run test
