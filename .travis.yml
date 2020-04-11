@@ -1,11 +1,9 @@
 language: node_js
-dist: trusty
-sudo: false
 node_js:
   - "node"
 before_install:
   - rm -rf ./node_modules
 before_script:
-  - npm install
+  - npm ci
 script:
 - npm run test
