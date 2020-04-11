@@ -9,8 +9,8 @@ jobs:
           name: preprocess-clean-node-modules
           command: rm -rf node_modules
       - run:
-          name: preprocess-npm
-          command: npm ci
+          name: preprocess
+          command: yarn
       - run:
-          name: test (npm)
-          command: npm run test
+          name: test
+          command: yarn test
