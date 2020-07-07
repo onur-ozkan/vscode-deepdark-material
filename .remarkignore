@@ -1,7 +1,0 @@
-.circleci/*
-.vscode/*
-assets/*
-node_modules/*
-themes/*
-*.vsix
-CHANGELOG.md

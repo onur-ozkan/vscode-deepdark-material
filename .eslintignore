@@ -1,6 +1,0 @@
-.circleci/*
-.github/*
-.vscode/*
-assets/*
-node_modules/*
-*.vsix
