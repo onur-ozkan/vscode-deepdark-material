@@ -37,7 +37,3 @@ A clean dark material theme for Visual Studio Code Editor
 
 <h3 align="center"> <a href="mailto:onurozkan.dev@outlook.com" target="_top">Send Mail</a> - <a href="https://github.com/ozkanonur/vscode-deepdark-material/issues">Github Issues</a>
 </h3>
-
-<h4 align="center"> The MIT License Copyright &copy; 2019 Onur ÖZKAN </h4>
-
-<p align="center"> <img width="7.5%" src="https://user-images.githubusercontent.com/39852038/53875603-edd28b00-4015-11e9-92ff-63bc11f93fea.png"/> </p>
