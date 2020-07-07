@@ -8,10 +8,10 @@ A clean dark material theme for Visual Studio Code Editor
 
 <p align="center">
 <img src="https://img.shields.io/badge/github-ozkanonur-212121.svg?style=for-the-badge&colorB=b71c1c"/>
-<img src="https://img.shields.io/travis/com/ozkanonur/vscode-deepdark-material.svg?color=black&label=.travis-ci&style=for-the-badge"/>
-<img src="https://img.shields.io/circleci/project/github/ozkanonur/vscode-deepdark-material/master.svg?color=black&label=.circleci&style=for-the-badge"/>
-<img src="https://vsmarketplacebadge.apphb.com/downloads/Nimda.deepdark-material.svg?colorB=black&style=for-the-badge"/>
+<img src="https://vsmarketplacebadge.apphb.com/downloads/Nimda.deepdark-material.svg?colorB=2e7d32&style=for-the-badge"/>
+<img src="https://img.shields.io/github/license/ozkanonur/vscode-deepdark-material?colorB=black&style=for-the-badge" alt="License"/>
 </p>
+
 
 ## Icon Package & Theme Preview
 <p align="center">
