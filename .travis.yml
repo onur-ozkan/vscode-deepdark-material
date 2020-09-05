@@ -1,9 +1,0 @@
-language: node_js
-node_js:
-  - "node"
-before_install:
-  - rm -rf ./node_modules
-before_script:
-  - yarn
-script:
-- yarn test
