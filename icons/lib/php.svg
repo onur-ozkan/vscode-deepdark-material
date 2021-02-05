@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320"><defs><mask id="a"><path fill="#fff" d="M0 0h320v320H0z"/><text x="30" y="200" font-family="Arial" font-size="150" font-weight="bold" font-style="italic">php</text></mask></defs><ellipse cx="160" cy="160" rx="160" ry="160" fill="#6c7eb7" mask="url(#a)"/></svg>

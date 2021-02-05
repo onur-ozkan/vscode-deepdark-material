@@ -1,7 +1,6 @@
 *.vsix
 package-lock.json
 node_modules/
-icons/lib
 logs/
 *.log
 npm-debug.log*
