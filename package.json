@@ -2,7 +2,7 @@
     "name": "deepdark-material",
     "displayName": "Deepdark Material Theme",
     "description": "A clean dark material theme and icon package for Visual Studio Code Editor",
-    "version": "3.3.0",
+    "version": "3.3.1",
     "publisher": "Nimda",
     "engines": {
         "vscode": "*"
@@ -11,7 +11,7 @@
         "publisherDisplayName": "Nimda",
         "publisherId": "Nimda"
     },
-    "homepage": "https://github.com/ozkanonur/vscode-deepdark-material/blob/master/README.md",
+    "homepage": "https://github.com/onur-ozkan/vscode-deepdark-material/blob/master/README.md",
     "license": "MIT",
     "categories": [
         "Themes"
@@ -33,7 +33,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ozkanonur/vscode-deepdark-material"
+        "url": "https://github.com/onur-ozkan/vscode-deepdark-material"
     },
     "contributes": {
         "themes": [
